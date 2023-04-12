@@ -26,6 +26,13 @@ Raw: https://cdn.jsdelivr.net/gh/thedoggybrad/supersecurityfilterlist@main/list.
 <br>
 Subscribe Link: https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/thedoggybrad/supersecurityfilterlist@main/list.txt
 
+## Credits
+Without these references, this filterlist would not become possible.
+<br>
+•Reference 1: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/
+<br>
+•Reference 2: https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/
+
 ## License
 This filterlist project is licensed under the MIT License, which is located here: https://github.com/thedoggybrad/supersecurityfilterlist/blob/main/LICENSE
 
