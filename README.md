@@ -8,7 +8,7 @@ Raw: https://raw.githubusercontent.com/thedoggybrad/supersecurityfilterlist/main
 <br>
 Subscribe Link: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/supersecurityfilterlist/main/list.txt
 
-•Statically CDN (Recommended Backup)
+•Statically CDN
 <br>
 Raw: https://cdn.statically.io/gh/thedoggybrad/supersecurityfilterlist/main/list.txt
 <br>
