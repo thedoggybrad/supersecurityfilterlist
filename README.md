@@ -2,20 +2,50 @@
 Secure yourself with the biggest filterlist of dangerous websites, links and IPs. It is for UBlock Origin, UBlock, AdBlock Plus, AdBlock, Opera, Vivaldi and other compatible adblocks.
 
 ## Links
-•Github
+•Github (Most Recommended)
 <br>
 Raw: https://raw.githubusercontent.com/thedoggybrad/supersecurityfilterlist/main/list.txt
 <br>
 Subscribe Link: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/thedoggybrad/supersecurityfilterlist/main/list.txt
 
-•Statically CDN
+•Statically CDN (Recommended Backup)
 <br>
 Raw: https://cdn.statically.io/gh/thedoggybrad/supersecurityfilterlist/main/list.txt
 <br>
 Subscribe Link: https://subscribe.adblockplus.org/?location=https://cdn.statically.io/gh/thedoggybrad/supersecurityfilterlist/main/list.txt
 
+•GitHack CDN
+<br>
+Raw: https://rawcdn.githack.com/thedoggybrad/supersecurityfilterlist/a7034e550747d2a340a4b5242b5f7d15bffb5693/list.txt
+<br>
+Subscribe Link: https://subscribe.adblockplus.org/?location=https://rawcdn.githack.com/thedoggybrad/supersecurityfilterlist/a7034e550747d2a340a4b5242b5f7d15bffb5693/list.txt
+
+•jsDelivr CDN
+<br>
+Raw: https://cdn.jsdelivr.net/gh/thedoggybrad/supersecurityfilterlist@main/list.txt
+<br>
+Subscribe Link: https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/thedoggybrad/supersecurityfilterlist@main/list.txt
+
 ## License
 This filterlist project is licensed under the MIT License, which is located here: https://github.com/thedoggybrad/supersecurityfilterlist/blob/main/LICENSE
+
+## What is Raw, Subscribe and CDNs?
+This section is just an additional information about those options. Since not all the people know what are those terms.
+<br>
+<br>
+•Raw - It is a raw text file you can add to your adblock.
+<br>
+•Subscribe- This is a easy to use link that automatically adds this adblock filter to your Adblock Plus compatible adblock extension. It uses the raw file in GitHub
+<br>
+•Github- It is the original source file, hosted here in GitHub. It is the one we recommend to use.
+<br>
+•CDNs - It stands for Content Delivery Network and they are used to distribute a file or an entire website faster to multiple people, location and devices with the help of a cache (copy of the file in other servers) and that cache is stored on multiple servers by the CDN provider.
+<br>
+✓jsDelivr CDN - It is a public content delivery network, designed for open-source projects like this one. It is powered by multiple CDN and DNS providers (including CloudFlare CDN, Fastly CDN, NS1 DNS, GCore CDN, Bunny.NET CDN, Render API, Digital Ocean service and many more).
+<br>
+✓GitHack CDN - It is an another public content delivery network, but only powered by CloudFlare CDN.
+<br>
+✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
 
 ## How to add an adblock filter? (also applies to this filter)
 This section is for those who does not know how to use their adblock. The Instructions given below are only for those popular adblockers, for other adblockers you may follow the General Instruction given below.
