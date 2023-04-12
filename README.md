@@ -1,4 +1,4 @@
-# The Super Security Filterlis
+# The Super Security Filterlist
 Secure yourself with the biggest filterlist of dangerous websites, links and IPs. It is for UBlock Origin, UBlock, AdBlock Plus, AdBlock, Opera, Vivaldi and other compatible adblocks.
 
 ## Links
