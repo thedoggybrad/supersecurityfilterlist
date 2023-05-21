@@ -16,9 +16,9 @@ Subscribe Link: https://subscribe.adblockplus.org/?location=https://cdn.statical
 
 •GitHack CDN
 <br>
-Raw: https://rawcdn.githack.com/thedoggybrad/supersecurityfilterlist/a7034e550747d2a340a4b5242b5f7d15bffb5693/list.txt
+Raw: https://raw.githack.com/thedoggybrad/supersecurityfilterlist/main/list.txt
 <br>
-Subscribe Link: https://subscribe.adblockplus.org/?location=https://rawcdn.githack.com/thedoggybrad/supersecurityfilterlist/a7034e550747d2a340a4b5242b5f7d15bffb5693/list.txt
+Subscribe Link: https://subscribe.adblockplus.org/?location=https://raw.githack.com/thedoggybrad/supersecurityfilterlist/main/list.txt
 
 •jsDelivr CDN
 <br>
