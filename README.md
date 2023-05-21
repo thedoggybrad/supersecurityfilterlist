@@ -54,6 +54,9 @@ This section is just an additional information about those options. Since not al
 <br>
 ✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
 
+## Issues Reporting and Suggestions
+I do not monitor my Github account always but I do monitor my Go Social! email address almost once a day. So, for issues and suggestions be sure to email admin@gosocial.x10.bz
+
 ## How to add an adblock filter? (also applies to this filter)
 This section is for those who does not know how to use their adblock. The Instructions given below are only for those popular adblockers, for other adblockers you may follow the General Instruction given below.
 <br>
