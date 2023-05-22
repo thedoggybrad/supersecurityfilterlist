@@ -52,7 +52,7 @@ This section is just an additional information about those options. Since not al
 <br>
 ✓GitHack CDN - It is an another public content delivery network, but only powered by CloudFlare CDN.
 <br>
-✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare amd Bunny.NET.
+✓Statically CDN - It is an another public content delivery network, designed for developers and powered by Fastly, CloudFlare and Bunny.NET.
 
 ## Issues Reporting and Suggestions
 I do not monitor my Github account always but I do monitor my Go Social! email address almost once a day. So, for issues and suggestions be sure to email admin@gosocial.x10.bz
