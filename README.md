@@ -1,3 +1,6 @@
+### Notice
+This project is unmaintained and its not that up-to-date. Don't use this as your primary filterlist. This project shall turn into an archive.
+
 # The Super Security Filterlist
 Secure yourself with the biggest filterlist of dangerous websites, links and IPs. It is for UBlock Origin, UBlock, AdBlock Plus, AdBlock, Opera, Vivaldi and other compatible adblocks.
 
